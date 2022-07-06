@@ -14,7 +14,7 @@ class Ninja {
         return this;
     }
     drinkSake(){
-        this.strength +=10;
+        this.health += 10;
         return this;
     }
 }
